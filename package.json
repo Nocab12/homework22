@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "babel src -d dist --presets es2015"
+    "build": "babel src -d dist"
   },
   "repository": {
     "type": "git",
@@ -17,9 +17,9 @@
   "author": "Denis Berezin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nocab12/homework21/issues"
+    "url": "https://github.com/Nocab12/homework22/issues"
   },
-  "homepage": "https://github.com/Nocab12/homework21#readme",
+  "homepage": "https://github.com/Nocab12/homework22#readme",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",
